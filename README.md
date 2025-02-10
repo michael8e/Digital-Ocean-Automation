@@ -13,16 +13,6 @@ To run this project on your machine you need to install any SQL-supported DBMS t
 
 Note: If you are using PostgreSQL then restore the <a href="https://github.com/michael8e/Music-Store-Analysis/blob/main/music_store_db_backup">backup</a> file of the database and save yourself some time.
 
-<!-- ## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![schema](MusicDatabaseSchema.png)
-    ``` -->
-
 ## Database and Tools
 
 * Postgre SQL
