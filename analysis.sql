@@ -174,3 +174,10 @@ JOIN invoice ON invoice.invoice_id = invoice_line.invoice_id
 JOIN customer ON customer.customer_id = invoice.customer_id
 GROUP BY country
 ORDER BY purchases DESC;
+
+
+
+
+
+
+
